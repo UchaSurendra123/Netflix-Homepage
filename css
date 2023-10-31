@@ -1,0 +1,11 @@
+.header {
+  background-color: red;
+}
+
+.main {
+  background-color: gray;
+}
+
+.category {
+  border: 1px solid black;
+}
